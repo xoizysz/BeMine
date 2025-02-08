@@ -1,0 +1,9 @@
+.yippie {
+  color: #ff4d79;
+}
+
+h2, .salutation {
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+}
